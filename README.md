@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Moura</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardommascarenhas" alt="leonardommascarenhas" /></a> </p>
+[![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardommasarenhas)](https://github.com/leonardommascarenhas/github-readme-stats)
 
 - 🌱 I’m currently learning **React-query**
 
