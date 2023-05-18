@@ -1,7 +1,6 @@
 # Hi 👋, I'm Leonardo Moura
-### A passionate frontend developer from Brazil
 
-🚀 Working as Front-End Dev with MERN Stack
+🚀 Working as a Front-End Dev with the MERN TechStack
 
 🌱 I’m currently learning **React-query**
 
