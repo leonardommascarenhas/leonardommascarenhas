@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Moura</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardommascarenhas)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning **React-query**
 
