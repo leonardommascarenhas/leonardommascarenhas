@@ -23,12 +23,6 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=leonardommascarenhas&show_icons=true&theme=radical" alt="Leonardo's GitHub Stats" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardommascarenhas&theme=radical" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
