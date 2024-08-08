@@ -2,7 +2,7 @@
 
 🚀 Working as a Front-End Dev with the MERN TechStack
 
-🌱 I’m currently learning **Pinia**
+🌱 I’m currently learning **C#**
 
 👨‍💻 All of my projects are available [here](https://github.com/leonardommascarenhas)
 
